@@ -18,8 +18,7 @@ matrix:
 install:
  - 'travis_retry pip install -U setuptools pip "setuptools_scm>=1.9" cffi  # Python packaging and interop.'
  - 'travis_retry pip install -U pytest pytest-cov codecov  # Test execution and reporting tools.'
- - 'make unpack_test  # Expand variables suitable for testing.'
- - 'pip install -e ".[development]"  # Install project and dependencies.'
+ - 'pip install -e ".[development] --src=third-party"  # Install project and dependencies.'
 
 script: pytest
 
