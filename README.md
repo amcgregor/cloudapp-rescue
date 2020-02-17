@@ -1,12 +1,10 @@
-# $project
-
-> This is a project template, meant for duplication and use as a starting point. Please search through these files for any occurrences of, and populate: `$project`, `$package`, `$version`, `$repo`, ...
+# CloudRescue
 
 [![][latestversion]][latestversion_] [![][ghtag]][ghtag_] [![][masterstatus]][masterstatus_] [![][mastercover]][mastercover_] [![][masterreq]][masterreq_] [![][ghwatch]][ghsubscription] [![][ghstar]][ghsubscription]
 
-> © 2019 Alice Bevan-McGregor and contributors.
+> © 2020 Alice Bevan-McGregor and contributors.
 
-> https://github.com/marrow/$repo
+> https://github.com/amcgregor/cloudapp-rescue
 
 Please describe the package here in few sentences; the goal is about a paragraph. Something easy to digest, but not too brief to give a good idea of what the package is for. For example, this is not a real package, it's a package template for "unpacking" on GitHub using their Repository Templates feature. You won't find this on the Python Package Index (Pypi).
 
