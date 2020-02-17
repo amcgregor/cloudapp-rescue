@@ -1,9 +1,9 @@
-PROJECT = $project
+PROJECT = CloudRescue
 USE = development
 PIP_CACHE_DIR = ${VIRTUAL_ENV}/lib/pip-cache
 
 .SILENT:
-.PHONY: all develop clean veryclean test unpack_test unpack
+.PHONY: all develop clean veryclean test
 
 
 all: develop test
@@ -39,15 +39,6 @@ test:
 	@echo " \033[1;34m*\033[0m Testing \033[1m${PROJECT}\033[0m..."
 	
 	./setup.py -q test
-
-
-unpack_test:
-	# Invoke unpack with answers pre-populated suitable for Travis-CI testing of this template.
-
-
-unpack:
-	# Request definition for known variables.
-	# Find and iterate files with variable replacements, expanding them.
 
 
 ${PROJECT}.egg-info/PKG-INFO: setup.py setup.cfg
