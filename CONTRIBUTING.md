@@ -28,7 +28,7 @@ The first step in determining how best to tackle a concern is to ask about it. T
 
 * **GitHub Issues**
 
-  For problems relating to bugs or enhancements witin the project, please utilize the [GitHub Issue Tracker](https://github.com/marrow/$repo/issues), making sure to pick the appropriate issue template, populating as needed.  If you have identified an issue and have already begun work on a feature branch, just issue a pull request instead of creating a ticket.
+  For problems relating to bugs or enhancements witin the project, please utilize the [GitHub Issue Tracker](https://github.com/amcgregor/cloudapp-rescue/issues), making sure to pick the appropriate issue template, populating as needed.  If you have identified an issue and have already begun work on a feature branch, just issue a pull request instead of creating a ticket.
 
   Please do not use the issue tracker for general use and support questions.  IRC or Stack Overflow are better resources for quick questions or longer questions, respectively.
 
@@ -37,11 +37,11 @@ The first step in determining how best to tackle a concern is to ask about it. T
 
 * **Triage**
 
-  If you find an [unreviewed ticket](https://github.com/marrow/$repo/labels/org:triage) reporting a bug, try to reproduce it. If the problem appears valid make a note that you confirmed the bug.
+  If you find an [unreviewed ticket](https://github.com/amcgregor/cloudapp-rescue/labels/org:triage) reporting a bug, try to reproduce it. If the problem appears valid make a note that you confirmed the bug.
 
 * **Help Wanted**
 
-  Look through the [Help Wanted](https://github.com/marrow/$repo/labels/org:help-wanted) issues on GitHub. Look for tickets with greater numbers of reactions and comments to help gauge impact. If you feel it's a problem you can help solve, ask to be assigned.
+  Look through the [Help Wanted](https://github.com/amcgregor/cloudapp-rescue/labels/org:help-wanted) issues on GitHub. Look for tickets with greater numbers of reactions and comments to help gauge impact. If you feel it's a problem you can help solve, ask to be assigned.
 
 * **Write Some Documentation**
 
@@ -60,7 +60,7 @@ The first step in determining how best to tackle a concern is to ask about it. T
 
 * **Large (especially breaking) changes should be discussed.**
 
-  [Create issues](https://github.com/marrow/$repo/issues/new) for any major changes and enhancements that you wish to make. Discuss things transparently and get community feedback.
+  [Create issues](https://github.com/amcgregor/cloudapp-rescue/issues/new) for any major changes and enhancements that you wish to make. Discuss things transparently and get community feedback.
 
 * **Be excellent to each-other.**
 
@@ -75,8 +75,8 @@ The first step in determining how best to tackle a concern is to ask about it. T
   3. Ensure changes are up to date with their parent branch and that they do not conflict.
 
 
-## Donations and Patreon Support
+## Donations and Financial Support
 
-Financial contributions are welcome. To arrange a one-time donation, please contact `GothAlice` on IRC (see details above) and for more ongoing support we have [Patreon](https://www.patreon.com/GothAlice) prepared for you. We have rewards (such as inclusion in the [Patrons team on GitHub](https://github.com/orgs/marrow/teams/patrons) plus our eternal gratitude) and goals, so please give it a look; every penny helps pay for infrastructure costs and caffeine. So much caffine.
+Financial contributions are welcome. To arrange a one-time donation, please contact `GothAlice` on IRC (see details above) and for more ongoing support we offer [GitHub Sponsors](https://github.com/sponsors/amcgregor) and [Patreon](https://www.patreon.com/GothAlice). We have rewards (such as inclusion in the [Patrons team on GitHub](https://github.com/orgs/marrow/teams/patrons) plus our eternal gratitude) and goals, so please give it a look; every penny helps pay for infrastructure costs and caffeine. So much caffeine.
 
 If at any point you wish or need to cease recurring donations, do not feel bad. Don't put yourself out on our account, and thank you!
